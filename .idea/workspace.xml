@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3a1862b-9dcd-45ad-954c-b262efaf2446" name="Changes" comment="tema lab2" />
+    <list default="true" id="e3a1862b-9dcd-45ad-954c-b262efaf2446" name="Changes" comment="tema lab2">
+      <change afterPath="$PROJECT_DIR$/src/Lab3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab3/UniqueList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/ex6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/ex6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2/ex7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/ex7/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,23 +39,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/trand/IdeaProjects/LABORATOR_PAO_FINAL/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab3.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/trand/IdeaProjects/LABORATOR_PAO_FINAL/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Lab3.Main">
+    <configuration name="Lab3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.Main" />
+      <module name="LABORATOR_PAO_FINAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab2.ex6.Main" />
       <module name="LABORATOR_PAO_FINAL" />
@@ -64,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab3.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -85,6 +107,9 @@
       <updated>1710169150453</updated>
       <workItem from="1710169151587" duration="2684000" />
       <workItem from="1710277572560" duration="2369000" />
+      <workItem from="1710279972923" duration="391000" />
+      <workItem from="1710881520117" duration="532000" />
+      <workItem from="1710882065404" duration="1990000" />
     </task>
     <task id="LOCAL-00001" summary="tema lab2">
       <option name="closed" value="true" />
@@ -94,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710279949010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tema lab2">
+      <option name="closed" value="true" />
+      <created>1710279982554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710279982554</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
