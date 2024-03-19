@@ -1,4 +1,4 @@
-package Lab3;
+package Lab3.ex7;
 
 import java.util.ArrayList;
 import java.util.Collection;
